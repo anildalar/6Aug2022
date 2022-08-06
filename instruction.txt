@@ -1,0 +1,15 @@
+How to upload a source code on github
+
+There are 5 Steps of git commands
+
+1. git init
+2. git remote add origin <repo_link>
+3. git add .  (. = current directory) (stagging area)
+4. git commit -m "message"
+5. git push origin <branch_name>
+
+px = pixel
+
+Ctrl + `
+
+Ctrl + L = CLear logs
