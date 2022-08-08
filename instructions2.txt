@@ -1,0 +1,30 @@
+How to download the git repository from remote to local
+
+
+Methods
+
+1. Clone the repository (Cloning --> Downloading )
+
+Syntax
+	 git clone <repo_link> -b <branch_name> <directory>
+
+	-b = branch name flag bit
+
+Eg.
+	git clone https://github.com/anildalar/6Aug2022.git -b master .
+
+
+. = current directory
+	
+
+bash bash terminal = linux based terminal
+
+ls = List of files and folder commands 
+
+Vs Code editor Terminal 
+		Windows based terminal
+
+
+
+How to deploye the git repoistory on internet
+
